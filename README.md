@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Apr 28, 2026, 01_39_55 AM" src="https://github.com/user-attachments/assets/3f91af7c-2847-4005-a966-fb1409cc739a" />
+
 # 🧠 RepoMind AI
 
 > Intelligent Git Repository Analyzer powered by AI, semantic search, and vector embeddings.
